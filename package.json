@@ -2,7 +2,7 @@
   "name": "kanban-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tisagitov.github.io/Kanban-Project/",
+  "homepage": "https://liliyaa-p.github.io/kanban-board/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
