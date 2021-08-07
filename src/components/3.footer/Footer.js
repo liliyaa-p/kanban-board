@@ -9,7 +9,7 @@ const Footer = ({ activeAmount, finishedAmount }) => {
           <p className="footer__task">Finished tasks: {finishedAmount}</p>
         </section>
         <section className="footer__credits">
-          Kanban Board by Tim Sagitov, 2021
+          Kanban Board by Liliya Polikarpova, 2021
         </section>
       </div>
     </footer>
